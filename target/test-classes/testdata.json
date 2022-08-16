@@ -1,0 +1,17 @@
+{
+  "createUser":{
+    "name": "Tony",
+    "superName": "Iron Man",
+    "profession": "Business",
+    "age": 50,
+    "canFly": true
+  },
+  "updateUser": {
+    "name": "Tony",
+    "superName": "Bat Man",
+    "profession": "engineer",
+    "age": 40,
+    "canFly": false
+  }
+
+}
